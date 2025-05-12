@@ -1,18 +1,6 @@
 ## 👋 Hi there, I'm Meeth!
 
 I’m a former financial analyst turned data scientist, with a sharp eye for patterns and an obsession for tech that makes life smarter.
-
----
-
-### 💼 Who Am I?
-- 🎓 Master's student in Business Analytics | UCL
-- 💼 Former Financial Analyst with experience in stakeholder communication and process automation
-- 📈 Passionate about transforming messy data into clean, actionable intelligence
-- ⚙️ Currently exploring **Agentic AI Auditing** and **Data Engineering**
-
----
-### 🔍 About Me
-
 I’m pursuing my Master’s while working on real-world machine learning projects that blend intuition, analytics and engineering. My projects blend business understanding with technical expertise to drive insights and impact.
 
 ---
@@ -29,6 +17,14 @@ I’m pursuing my Master’s while working on real-world machine learning projec
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+
+---
+
+### 🔍 About Me
+- 🎓 Master's student in Business Analytics | UCL
+- 💼 Former Financial Analyst with experience in stakeholder communication and process automation
+- 📈 Passionate about transforming messy data into clean, actionable intelligence
+- ⚙️ Currently exploring **Agentic AI Auditing** and **Data Engineering**
 
 ---
 
