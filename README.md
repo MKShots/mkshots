@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Meeth!
 
-I’m a former financial analyst turned data scientist, with a sharp eye for patterns and a soft spot for tech that makes life smarter.
+I’m a former financial analyst turned data scientist, with a sharp eye for patterns and an obsession for tech that makes life smarter.
 
 ---
 
