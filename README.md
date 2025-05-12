@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Meeth – Data Wizard in Progress 🧠📊
+## Hi there 👋 I'm Meeth – Data Wizard in Progress 🧙🏼‍♂️
 
 I’m a former financial analyst turned data scientist, with a sharp eye for patterns and a soft spot for tech that makes life smarter. I’m pursuing my Master’s while working on real-world machine learning projects that blend intuition, analytics and engineering. My work blends business understanding with technical expertise to drive insights and impact. All of this is powered by my ADHD.
 
