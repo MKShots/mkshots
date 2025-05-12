@@ -18,24 +18,24 @@ I’m pursuing my Master’s while working on real-world machine learning projec
 ---
 
 ### 🛠️ Tech & Tools I Work With
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
 
 ---
 
 ### 🚀 Highlight Projects
 
 - 📷 [**Terrain Image Classification (Intel Dataset)**](link-to-repo)  
-  Built and compared CNN, ResNet50, and EfficientNet architectures for classifying real-world terrain types. Preprocessing, model tuning, and evaluation — the whole shebang.
+  Built and compared CNN, ResNet50, and EfficientNet architectures for classifying real-world terrain types. Preprocessing, model tuning, and evaluation.
 
 - 🧾 [**Financial Risk Predictor – XGBoost + SHAP**](link-to-repo)  
   Developed an end-to-end risk analysis pipeline using banking datasets, interpretable ML, and visual dashboards for stakeholder clarity.
@@ -57,8 +57,9 @@ I’m pursuing my Master’s while working on real-world machine learning projec
 ---
 
 ### 🌐 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/shahmeethketulkumar) *(DMs open for collabs, job opps, or tech memes. Especially for the memes.)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shahmeethketulkumar) *(DMs open for collabs, job opps, or tech memes. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Especially for the memes.)*  
 
 ---
 
-> _"The measure of a man is what he does with power."_
+> _"Don’t reinvent the wheel, just realign it."_ <br>
+> — Anthony D’Angelo
