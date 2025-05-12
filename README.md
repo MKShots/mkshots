@@ -21,7 +21,7 @@ I’m pursuing my Master’s while working on real-world machine learning projec
 ---
 
 ### 🔍 About Me
-- 🎓 Master's student in Business Analytics | UCL
+- 🎓 **UCL** | Master's student in Business Analytics
 - 💼 Former Financial Analyst with experience in stakeholder communication and process automation
 - 📈 Passionate about transforming messy data into clean, actionable intelligence
 - ⚙️ Currently exploring **Agentic AI Auditing** and **Data Engineering**
