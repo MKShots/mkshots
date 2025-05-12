@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Meeth – Data Wizard in Progress 🧙🏼‍♂️
+## 👋 Hi there, I'm Meeth!
 
 I’m a former financial analyst turned data scientist, with a sharp eye for patterns and a soft spot for tech that makes life smarter. I’m pursuing my Master’s while working on real-world machine learning projects that blend intuition, analytics and engineering. My work blends business understanding with technical expertise to drive insights and impact. All of this is powered by my ADHD.
 
@@ -8,7 +8,7 @@ I’m a former financial analyst turned data scientist, with a sharp eye for pat
 - 🎓 Master's student in Business Analytics | UCL
 - 💼 Former Financial Analyst with experience in stakeholder communication and process automation
 - 📈 Passionate about transforming messy data into clean, actionable intelligence
-- ⚙️ Currently exploring **Neural Networks** and **ETL Pipelines**
+- ⚙️ Currently exploring **Agentic AI Auditing** and **Data Engineering**
 
 ---
 
@@ -41,22 +41,19 @@ I’m a former financial analyst turned data scientist, with a sharp eye for pat
 - ⚙️ [**ETL Pipeline for Sales Data** *(WIP)*](link-to-repo)  
   Working on a reusable ETL framework with `pandas`, `Airflow`, and `dbt` for scalable data workflows.
 
-> ✨ More fun, messy, chaotic projects coming soon – check my pinned repos below!
-
 ---
 
 ### 🎯 Current Focus Areas
 - Building **data pipelines** that are reproducible, fast, and cloud-friendly  
 - Writing clean, modular Python code that runs anywhere  
-- Creating **project templates** that play nice with GitHub Actions and `requirements.txt` for easy deployment  
 - Prepping for Data/Business Analyst roles in **tech-focused MNCs**  
 - Growing a portfolio that mixes visuals, automation, and business storytelling
 
 ---
 
 ### 🌐 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) *(DMs open for collabs, job opps, or tech memes)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shahmeethketulkumar) *(DMs open for collabs, job opps, or tech memes. Especially for the memes.)*  
 
 ---
 
-> _"Data is the new oil – but only if you know how to refine it."_  
+> _"The measure of a man is what he does with power."_
