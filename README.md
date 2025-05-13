@@ -7,13 +7,13 @@ I’m pursuing my Master’s while working on real-world machine learning projec
 
 ## 🛠️ My Tech Stack
 
-#### 🚀 Languages  
+### 🚀 Languages  
 
 ![Python](https://img.shields.io/badge/-Python-153E73?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-66B2FF?logo=postgresql&logoColor=white)
 
-#### 📚 Libraries & Frameworks  
+### 📚 Libraries & Frameworks  
 ![LangChain](https://img.shields.io/badge/-LangChain-3C1370?logo=data&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
