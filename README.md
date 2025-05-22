@@ -71,17 +71,14 @@ I’m pursuing my Master’s while working on real-world machine learning projec
 
 ### 🚀 Highlight Projects
 
+- 🐾 [**Cat Game – Reinforcement Learning Playground**](link-to-cat-game-repo)  
+  A playful browser game built with JavaScript, HTML & CSS. Players control a cat character to complete simple challenges and earn achievement-based rewards. Focuses on fun user interaction and a straightforward reward system to encourage replayability. Designed as a hands-on project to combine frontend and backend skills and experiment with gamification mechanics.
+
 - 📷 [**Terrain Image Classification (Intel Dataset)**](link-to-repo)  
   Built and compared CNN, ResNet50, and EfficientNet architectures for classifying real-world terrain types. Preprocessing, model tuning, and evaluation.
 
-- 🧾 [**Financial Risk Predictor – XGBoost + SHAP**](link-to-repo)  
-  Developed an end-to-end risk analysis pipeline using banking datasets, interpretable ML, and visual dashboards for stakeholder clarity.
-
 - 🗣️ [**Sentiment Classifier – BERT + NLP**](link-to-repo)  
   Applied transfer learning to classify tweet sentiments with fine-tuned BERT embeddings and ML pipelines.
-
-- ⚙️ [**ETL Pipeline for Sales Data** *(WIP)*](link-to-repo)  
-  Working on a reusable ETL framework with `pandas`, `Airflow`, and `dbt` for scalable data workflows.
 
 ---
 
