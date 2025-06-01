@@ -1,99 +1,99 @@
 ## 👋 Hi there, I'm Meeth!
 
-I’m a former financial analyst turned data scientist, with a sharp eye for patterns and an obsession for tech that makes life smarter.
-I’m pursuing my Master’s while working on real-world machine learning projects that blend intuition, analytics and engineering. My projects blend business understanding with technical expertise to drive insights and impact.
+I'm a former financial analyst turned data scientist, with a sharp eye for patterns and an obsession for tech that makes life smarter. I'm pursuing my Master's while working on real-world machine learning projects that blend intuition, analytics and engineering. My projects blend business understanding with technical expertise to drive insights and impact.
 
 ---
 
 ## 🛠️ My Tech Stack
 
-### 🚀 Languages  
+### 🚀 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 
-![Python](https://img.shields.io/badge/-Python-153E73?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-66B2FF?logo=postgresql&logoColor=white)
-
-### 📚 Libraries & Frameworks  
-![LangChain](https://img.shields.io/badge/-LangChain-3C1370?logo=data&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
-![SentenceTransformers](https://img.shields.io/badge/-SentenceTransformers-008080?logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-26A69A?logo=python&logoColor=white)
-![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/-NLTK-76B900?logo=nltk&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-F34B7D?logo=python&logoColor=white)
+### 📚 Libraries & Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=plastic)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=plastic&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=plastic)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-FF6F00?style=plastic)
+![Seaborn](https://img.shields.io/badge/Seaborn-4EAE4E?style=plastic)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=plastic&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-222222?style=plastic)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=plastic)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=plastic)
 
 ### 🧰 Tools & Platforms
-
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=plastic)
 
 ### 📊 Dashboards and BI
-
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
 
 ### 💾 Databases & Vector Stores
-
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
 
 ### 🧩 Corporate & Productivity Tools
-
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
-![Word](https://img.shields.io/badge/-Word-2B579A?logo=microsoft-word&logoColor=white)
-![Outlook](https://img.shields.io/badge/-Outlook-0072C6?logo=microsoft-outlook&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
+![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=plastic&logo=microsoft-word&logoColor=white)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white)
+![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic&logo=microsoft-teams&logoColor=white)
 
 ---
 
 ### 🔍 About Me
-- 🎓 **UCL** | Master's student in Business Analytics
-- 💼 Former Financial Analyst with experience in stakeholder communication and process automation
-- 📈 Passionate about transforming messy data into clean, actionable intelligence
-- ⚙️ Currently exploring **Agentic AI Auditing** and **Data Engineering**
+* 🎓 **UCL** | Master's student in Business Analytics
+* 💼 Former Financial Analyst with experience in stakeholder communication and process automation
+* 📈 Passionate about transforming messy data into clean, actionable intelligence
+* ⚙️ Currently exploring **Agentic AI Auditing** and **Data Engineering**
 
 ---
 
-### 🚀 Highlight Projects
+### 🚀 Latest Projects
 
-- 🐾 [**Cat Game – Reinforcement Learning Playground**](link-to-cat-game-repo)  
-  A playful browser game built with JavaScript, HTML & CSS. Players control a cat character to complete simple challenges and earn achievement-based rewards. Focuses on fun user interaction and a straightforward reward system to encourage replayability. Designed as a hands-on project to combine frontend and backend skills and experiment with gamification mechanics.
+* 🖼️ **[Nature Image Classification](https://github.com/MKShots/Nature_image_classification)**  
+  Advanced image classification pipeline using Intel's dataset to classify nature scenes. Implemented CNN architectures including ResNet50 and EfficientNet for optimal performance.
 
-- 📷 [**Terrain Image Classification (Intel Dataset)**](link-to-repo)  
-  Built and compared CNN, ResNet50, and EfficientNet architectures for classifying real-world terrain types. Preprocessing, model tuning, and evaluation.
+* 🎮 **[Flappy Cat Game](https://github.com/MKShots/flappy-cat)**  
+  A fun browser-based game where players control a cat dodging brooms! Built with JavaScript, HTML & CSS, focusing on smooth gameplay mechanics and user interaction.
 
-- 🗣️ [**Sentiment Classifier – BERT + NLP**](link-to-repo)  
-  Applied transfer learning to classify tweet sentiments with fine-tuned BERT embeddings and ML pipelines.
+* ✅ **[Modern Todo Application](https://github.com/MKShots/cursor-todo-app)**  
+  A TypeScript-based todo application showcasing modern web development practices and clean code principles.
 
 ---
 
 ### 🎯 Current Focus Areas
-- Building **data pipelines** that are reproducible, fast, and cloud-friendly  
-- Writing clean, modular Python code that runs anywhere  
-- Prepping for Data/Business Analyst roles in **tech-focused MNCs**  
-- Growing a portfolio that mixes visuals, automation, and business storytelling
+* Building **data pipelines** that are reproducible, fast, and cloud-friendly
+* Writing clean, modular Python code that runs anywhere
+* Prepping for Data/Business Analyst roles in **tech-focused MNCs**
+* Growing a portfolio that mixes visuals, automation, and business storytelling
 
 ---
 
-### 🌐 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/shahmeethketulkumar) *(DMs open for collabs, job opps, or tech memes. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Especially for the memes.)*  
+### 🌐 Let's Connect
+* 💼 [LinkedIn](https://www.linkedin.com/in/shahmeethketulkumar/) - Let's connect for collaborations, opportunities, or tech discussions!
 
 ---
 
-> _"Don’t reinvent the wheel, just realign it."_ <br>
-> — Anthony D’Angelo
+> _"Don't reinvent the wheel, just realign it."_   
+> — Anthony D'Angelo
+
+![Profile Views](https://komarev.com/ghpvc/?username=MKShots&color=blue) 
