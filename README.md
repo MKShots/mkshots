@@ -8,35 +8,35 @@ I'm a former financial analyst turned data scientist, with a sharp eye for patte
 
 ### 🚀 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 
 ### 📚 Libraries & Frameworks
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=plastic)
+![NLTK](https://img.shields.io/badge/NLTK-222222?style=plastic)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=plastic&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=plastic)
-![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-FF6F00?style=plastic)
-![Seaborn](https://img.shields.io/badge/Seaborn-4EAE4E?style=plastic)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=plastic)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=plastic&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-222222?style=plastic)
+![Seaborn](https://img.shields.io/badge/Seaborn-4EAE4E?style=plastic)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=plastic)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-FF6F00?style=plastic)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=plastic)
 
 ### 🧰 Tools & Platforms
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=plastic)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=plastic)
 
 ### 📊 Dashboards and BI
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white)
@@ -51,11 +51,11 @@ I'm a former financial analyst turned data scientist, with a sharp eye for patte
 ### 🧩 Corporate & Productivity Tools
 ![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
-![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=plastic&logo=microsoft-word&logoColor=white)
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white)
-![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic&logo=microsoft-teams&logoColor=white)
+![Teams](https://img.shields.io/badge/Teams-6264A7?style=plastic&logo=microsoft-teams&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=plastic&logo=microsoft-word&logoColor=white)
+![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white)
 
 ---
 
@@ -94,6 +94,4 @@ I'm a former financial analyst turned data scientist, with a sharp eye for patte
 ---
 
 > _"Don't reinvent the wheel, just realign it."_   
-> — Anthony D'Angelo
-
-![Profile Views](https://komarev.com/ghpvc/?username=MKShots&color=blue) 
+> — Anthony D'Angelo 
