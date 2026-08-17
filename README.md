@@ -75,8 +75,8 @@ I'm a former financial analyst turned data scientist, with a sharp eye for patte
 * 🎮 **[Flappy Cat Game](https://github.com/MKShots/flappy-cat)**  
   A fun browser-based game where players control a cat dodging brooms! Built with JavaScript, HTML & CSS, focusing on smooth gameplay mechanics and user interaction.
 
-* ✅ **[Modern Todo Application](https://github.com/MKShots/cursor-todo-app)**  
-  A TypeScript-based todo application showcasing modern web development practices and clean code principles.
+* ✅ **[HK Sector Default Risk Rating Calculator](https://github.com/MKShots/Sector_Default_Risk_Rating)**  
+  Sector-level credit risk for HKEX equities, estimated with a Merton structural default model.
 
 ---
 
